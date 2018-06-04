@@ -1,0 +1,12 @@
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Categories
+  url: /categories/
+- title: Book
+  url: /book/
+- title: Search
+  url: /search/
+- title: CV
+  url: /pages/Resume.pdf
