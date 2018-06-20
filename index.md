@@ -4,8 +4,6 @@ This is a record of the new ideas I learn in statistics and machine learning. I 
 Topics:
 
 1. [Introduction to Probability & Statistics](/stats/intro/#Intro)
-2. [List of Probabilistic Models](/stats/intro/#Intro)
-3. [Sampling Methods](/stats/intro/#Intro)
 
 <br>
 
