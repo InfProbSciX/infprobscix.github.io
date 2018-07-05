@@ -5,6 +5,7 @@ Topics:
 
 1. [Introduction to Probability & Statistics](/stats/intro/#Intro)
 2. [A List of Models](/stats/model/)
+3. [Likelihoods in High Dimensional Spaces](/stats/hilik/)
 
 <br>
 
