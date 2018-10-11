@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "Musings on Statistics & Machine Learning"
+title: "Musings on Statistical Machine Learning"
 description: "Welcome to my little blog on Stats & ML!"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -66,13 +66,13 @@ defaults:
       path: "_posts"
       type: posts
     values:
-      layout: post
+      layout: posts
       share: true
 
 # Site Author
 author:
   name: Aditya Ravuri
-  picture:
+  picture: /images/logo.jpg
   email: aditya.ravuri@gmail.com
 
 # Footer Links

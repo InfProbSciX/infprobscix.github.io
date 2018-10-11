@@ -1,13 +1,11 @@
+---
+layout: home
+entries_layout: grid
+---
 
-This is a record of the new ideas I learn in statistics and machine learning. I present content *as I understand it*, so please excuse mistakes :) Unreferenced content on this blog is probably original. _The blog is in very early days._
+$$ ln \left( p_{\mathcal M} (X | \hat \theta) \right) $$
 
-Topics:
 
-1. [Introduction to Probability & Statistics](/stats/intro/#Intro)
-2. [A List of Models](/stats/model/)
-3. [Likelihoods in High Dimensional Spaces](/stats/hilik/)
+Models are constructed by making them likely in the light of data but not such that they're able to reproduce it.
 
-<br>
-
-# Recently Updated Pages:
-
+# Recently Updated:
