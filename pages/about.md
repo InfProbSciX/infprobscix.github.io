@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm a statistician & data scientist in London with a huge interest in statistics, machine learning, computer science, mathematics, the sciences & scientific philosophy.
+I'm a statistician + data scientist in London with interests in statistics, machine learning, computer science, mathematics, science & scientific philosophy.
 
-I love the log-likelihood:
-
-$$ l(\hat \theta) \equiv ln \left( \prod_i^n p_{\mathcal M} ({\bf x} | \hat \theta) \right) $$
+Proficient with R, Python, Stan & Tensorflow. Studied for an MPhil (Cambridge) and a BSc Hons (Edinburgh) in subjects that may or may not resemble statistics.
