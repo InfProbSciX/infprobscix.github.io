@@ -2,9 +2,13 @@
   url: /
 - title: About
   url: /about/
+- title: Posts
+  url: /posts/
 - title: Categories
   url: /categories/
 - title: Search
   url: /search/
-- title: CV
+- title: Resume
   url: /pages/Resume.pdf
+- title: Cross Validated
+  url: https://stats.stackexchange.com/users/211930/infprobscix
