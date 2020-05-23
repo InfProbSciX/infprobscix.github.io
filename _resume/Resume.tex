@@ -1,0 +1,34 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[11pt, a4paper]{awesome-cv}
+
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+\fontdir[fonts/]
+\colorlet{awesome}{awesome-darknight}
+\setbool{acvSectionColorHighlight}{false}
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+\name{Aditya}{Ravuri}
+\position{Statistician{\enskip\cdotp\enskip}Data Scientist}
+
+\mobile{(+44 / 0) 7774 528 671}
+\email{aditya.ravuri@gmail.com}
+\homepage{www.falmity.com}
+
+\begin{document}
+
+\makecvheader
+
+\makecvfooter
+  {}
+  {Aditya Ravuri~~~·~~~CV}
+  {}
+
+\input{cv/education.tex}
+\input{cv/skills.tex}
+\input{cv/writing.tex}
+\input{cv/experience.tex}
+
+\end{document}
