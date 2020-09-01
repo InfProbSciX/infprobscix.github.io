@@ -3,7 +3,7 @@ layout: home
 entries_layout: grid
 ---
 
-\[ l(\theta ; X) \equiv ln \left( p_{\mathcal M} (X | \theta) \right) \]
+\\( l(\theta ; X) \equiv ln \left( p_{\mathcal M} (X | \theta) \right) \\)
 
 Living a few months in Cambridge: (red is day, blue is night)
 
