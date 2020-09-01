@@ -41,8 +41,7 @@ liquid:
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
-mathjax:
-  enable: true
+mathjax: true
 feed:
   path: atom.xml
 
@@ -54,6 +53,7 @@ search_full_content: true # can have performance implications for large sites
 
 exclude:
   - ignore/
+  - vendor/
 
 plugins:
   - jekyll-seo-tag
